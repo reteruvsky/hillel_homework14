@@ -35,7 +35,7 @@ public class FileData {
 
     public String toString() {
         return "name: " + getName() +
-                " size:" + getSize() +
+                " size: " + getSize() +
                 " path: " + getPath();
     }
 }
